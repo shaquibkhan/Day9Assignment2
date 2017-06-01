@@ -1,0 +1,30 @@
+/*page footer*/
+
+.footer {
+    
+    bottom: 0px;
+    padding-top: 19px;
+    color: #777;
+    width: 100%;
+    text-align: center;
+    border-top: 1px solid #e5e5e5;
+}
+ body{
+            background-image: url(w1.jpg);
+             }
+    #c1{
+    	color: green;
+    }
+    #c2{
+    	color: blue;
+    }
+    #c3{
+    	color:red;
+    }
+    #c4{
+    	color:#F39C12;
+    }
+    #c5{
+    	color: #12F323;
+    }
+    
